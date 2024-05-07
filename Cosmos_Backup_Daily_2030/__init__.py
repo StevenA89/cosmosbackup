@@ -1,6 +1,6 @@
 import logging
-import os
 import azure.functions as func
+import os
 from . import backupCollections as bc
 from . import removeOldBackups as rob
 
